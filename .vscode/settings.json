@@ -5,6 +5,8 @@
         "list": "cpp",
         "xstring": "cpp",
         "iostream": "cpp",
-        "cstdlib": "cpp"
+        "cstdlib": "cpp",
+        "fstream": "cpp",
+        "ostream": "cpp"
     }
 }
